@@ -24,9 +24,3 @@ Feel free to check out my repositories and see what I've been working on!
 
 **LinkedIn:** www.linkedin.com/in/jovan-petrevski
 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,jquery,bootstrap,react,spring,django" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=postgres,git,github,bitbucket,figma,unix,jira,trello,slack" />
-</p>
