@@ -19,4 +19,4 @@ Feel free to check out my repositories and see what I've been working on!
 
 **Email:** jovan.petrevski13@gmail.com
 
-**LinkedIn:** (www.linkedin.com/in/jovan-petrevski)
+**LinkedIn:** www.linkedin.com/in/jovan-petrevski
