@@ -13,6 +13,8 @@ I'm Jovan Petrevski, a student at Faculty of Computer Science and Engineering (F
 **Collaboration:** Jira · Trello · ClickUp · Slack
 
 I'm passionate about growing as a software developer, exploring new technologies, and creating meaningful projects.
+I'm currently open to **software development internships and junior developer opportunities** where I can grow my skills, gain practical experience, and contribute to real-world projects.
+
 Feel free to check out my repositories and see what I've been working on!
 
 📫 You can contact me here:
