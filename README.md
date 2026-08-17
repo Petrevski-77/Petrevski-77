@@ -16,4 +16,5 @@ I'm passionate about growing as a software developer, exploring new technologies
 Feel free to check out my repositories and see what I've been working on!
 
 📫 You can contact me here:
+
 **Email:** jovan.petrevski13@gmail.com
