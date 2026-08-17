@@ -18,3 +18,5 @@ Feel free to check out my repositories and see what I've been working on!
 📫 You can contact me here:
 
 **Email:** jovan.petrevski13@gmail.com
+
+**LinkedIn:** [Jovan Petrevski](www.linkedin.com/in/jovan-petrevski)
