@@ -11,3 +11,9 @@ I'm Jovan Petrevski, a student at Faculty of Computer Science and Engineering (F
 **Databases:** SQL · PostgreSQL · pgAdmin  
 **Tools:** Git · GitHub · Bitbucket · Figma · UNIX  
 **Collaboration:** Jira · Trello · ClickUp · Slack
+
+I'm passionate about growing as a software developer, exploring new technologies, and creating meaningful projects.
+Feel free to check out my repositories and see what I've been working on!
+
+📫 You can contact me here:
+**Email:** jovan.petrevski13@gmail.com
